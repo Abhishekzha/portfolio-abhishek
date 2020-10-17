@@ -1,17 +1,6 @@
 # Simplefolio ⚡️
 
 ## A minimal portfolio template for Developers!
-
-<h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
-  <br>
-</h2>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3oFzmq6Kj4yXZUVHmE/giphy.gif" alt="Look up!" width="600px" />
-  <br>
-</h2>
-
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
